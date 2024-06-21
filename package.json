@@ -1,5 +1,5 @@
 {
-    "name": "@bhplugin/ng-datatable",
+    "name": "@mendeldantas/ng-datatable",
     "version": "0.1.0",
     "description": "ng-datatable - fully customizable & easy to use datatable library",
     "private": false,

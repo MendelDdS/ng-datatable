@@ -1,4 +1,4 @@
-# @bhplugin/ng-datatable
+# @mendeldantas/ng-datatable
 
 <br/>
 
@@ -11,19 +11,19 @@
 #### NPM
 
 ```bash
-npm install @bhplugin/ng-datatable --save
+npm install @mendeldantas/ng-datatable --save
 ```
 
 #### Yarn
 
 ```bash
-yarn add @bhplugin/ng-datatable
+yarn add @mendeldantas/ng-datatable
 ```
 
 #### Bower
 
 ```bash
-bower install @bhplugin/ng-datatable --save
+bower install @mendeldantas/ng-datatable --save
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ bower install @bhplugin/ng-datatable --save
 
 ```bash
 import { NgModule } from '@angular/core';
-import { DataTableModule } from '@bhplugin/ng-datatable';
+import { DataTableModule } from '@mendeldantas/ng-datatable';
 
 @NgModule({
     imports: [
@@ -54,7 +54,7 @@ export class AppModule {}
 ```html
 
 import { Component } from '@angular/core';
-import { colDef } from '@bhplugin/ng-datatable';
+import { colDef } from '@mendeldantas/ng-datatable';
 
 @Component({
     selector: 'app-root',
@@ -205,18 +205,18 @@ export class AppComponent {
 
 ## License
 
-**_@bhplugin/ng-datatable_** is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+**_@mendeldantas/ng-datatable_** is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 <br>
 
 ## **Our other plugins**
 
-### Vue3 Datatable - [**@bhplugin/vue3-datatable**](https://www.npmjs.com/package/@bhplugin/vue3-datatable)
+### Vue3 Datatable - [**@mendeldantas/vue3-datatable**](https://www.npmjs.com/package/@mendeldantas/vue3-datatable)
 
 <br>
 
 ## Support
 
-<a target="_blank" href="https://www.buymeacoffee.com/bhplugin">
+<a target="_blank" href="https://www.buymeacoffee.com/mendeldantas">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
 </a>
